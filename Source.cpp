@@ -1,6 +1,6 @@
 #include <windows.h>
 
-// Edit 07/02/2020, chaneged the name file to "Source", and added the cpp extension.
+// Edit 07/02/2020, changed the name file to "Source", and added the cpp extension.
 
 // Edit 01/01/2022, fixed shitty grammar from past
 
