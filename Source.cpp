@@ -4,7 +4,7 @@
 
 // Edit 01/01/2022, fixed shitty grammar from past
 
-// Edit 02/28/2025, Updated a lot of things.
+// Edit 02/28/2025, Updated a lot of things. (MalwareRenders)
 
 const unsigned char HexData[] = { /*your hex data goes here*/ };
 
